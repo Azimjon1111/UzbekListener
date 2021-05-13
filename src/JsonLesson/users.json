@@ -1,0 +1,15 @@
+[
+{
+    "name": "Azimjon",
+    "age": 18,
+    "isStudent": false,
+    "city": "Tashkent"
+},
+{
+    "name": "Azizjon",
+    "age": 16,
+    "isStudent": false,
+    "city": "Tashkent"
+}
+
+]
